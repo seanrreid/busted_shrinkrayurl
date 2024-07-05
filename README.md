@@ -1,5 +1,7 @@
 # Busted Shrink Ray
 
+<!-- markdownlint-disable no-inline-html -->
+
 ## Find all the errors in both the `ui` and `api` folders
 
 * Copy the the `env.sample` files in _each folder_ to `.env`
